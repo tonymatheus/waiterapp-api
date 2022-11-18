@@ -37,12 +37,12 @@ yarn start
 - Upload de imagens
 
 # Tecnologias utilizadas no projeto
-- [x]Node Js
-- [x]Express
-- [x]Typescript
-- [x]MongoDB
-- [x]Mongoose
-- [x]Nodemon
-- [x]Docker
-- [x]EsLint
+- [x] Node Js
+- [x] Express
+- [x] Typescript
+- [x] MongoDB
+- [x] Mongoose
+- [x] Nodemon
+- [x] Docker
+- [x] EsLint
 

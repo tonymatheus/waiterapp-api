@@ -42,6 +42,7 @@ yarn start
 - [x] Typescript
 - [x] MongoDB
 - [x] Mongoose
+- [x] Multer 
 - [x] Nodemon
 - [x] Docker
 - [x] EsLint

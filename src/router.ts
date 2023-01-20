@@ -35,7 +35,6 @@ router.post('/categories', createCategory);
 //list products
 router.get('/products', listProducts);
 //create products
-
 router.post('/products', upload.single('image'), createProducts);
 
 //get products by category
